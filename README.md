@@ -11,6 +11,7 @@ This is about reviewing foods in a restaurant.
 -cd into the repo directory
 -Run it in the live server
 
-  # Created by Moriaso
+  # Created by
+  Moriaso
 
 
