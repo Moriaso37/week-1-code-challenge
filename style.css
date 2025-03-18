@@ -1,0 +1,17 @@
+#ramen-menu {
+    width: 800px;
+    margin: auto;
+    cursor: pointer;
+
+}
+#ramen-detail {
+    width: 800px;
+    margin: auto;
+}
+#form-container {
+    width: 200px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}

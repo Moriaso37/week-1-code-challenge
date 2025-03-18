@@ -6,12 +6,13 @@ This is about reviewing foods in a restaurant.
 - CSS
 - JAVASCRIPT
 - 
-#How to set it up
+
+# How to set it up
 -clone repo link
 -cd into the repo directory
 -Run it in the live server
 
   # Created by
-  Moriaso
+  Ms
 
 
